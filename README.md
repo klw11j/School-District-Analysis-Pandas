@@ -1,9 +1,7 @@
-# pandas-challenge
+# School District Analysis using Pandas
 
-# Smaller schools have a higher overall passing rate 
-# Schools that have a smaller budget have a higher overall passing rate and tend to be smaller in size
 
-PyCitySchools
+## PyCitySchools
 
 Education
 
@@ -89,4 +87,8 @@ Scores by School Type
 
 Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
-\
+
+# Conclusions
+
+Smaller schools have a higher overall passing rate.
+Schools that have a smaller budget have a higher overall passing rate and tend to be smaller in size.
